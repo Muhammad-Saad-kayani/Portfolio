@@ -5,7 +5,8 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="px-6 py-2 lg:px-20 3xl:px-0 relative z-30 rounded-lg bg-white shadow-xl ring-1 ring-slate-100">
+    <nav className="px-6 py-4 lg:px-20 3xl:px-0 relati w-full z-30 fixed rounded-lg bg-white shadow-xl ring-1 
+    ring-slate-100 ">
       <div className="flex items-center justify-between w-full">
         <Link href="/" className="font-extrabold uppercase relative text-xl">
           <span className="text-black">Sa</span>
