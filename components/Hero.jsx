@@ -41,9 +41,7 @@ const Hero = () => {
         </h2>
         <p className="text-[16px] font-[400] max-w-[555px] my-3">
           I am a motivated and detail-oriented Software Engineer with hands-on
-          experience in front-end web development, specializing in the MERN
-          stack. Currently focused on mastering modern front-end technologies,
-          including HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS.
+          experience in front-end web development.
         </p>
         <div className="my-5 flex flex-wrap gap-5">
           <div className="flex items-center gap-2">

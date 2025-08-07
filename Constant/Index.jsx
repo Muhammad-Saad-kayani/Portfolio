@@ -30,3 +30,24 @@ export const navLinks = [
         label : "Contact Us"
     },
 ]
+
+export const SKILLS = [
+    {
+        title : 'Frontend',
+        icon : '/frontend.svg',
+        description : 
+        'Frontend, in web development, refers to the part of a website or application that users directly interact with. It encompasses the user interface (UI) and user experience (UX).'
+    },
+    {
+        title : 'Backend',
+        icon : '/backend.svg',
+        description : 
+        'Frontend, in web development, refers to the part of a website or application that users directly interact with. It encompasses the user interface (UI) and user experience (UX).'
+    },
+    {
+        title : 'Fullstack',
+        icon : '/stack.svg',
+        description : 
+        'Frontend, in web development, refers to the part of a website or application that users directly interact with. It encompasses the user interface (UI) and user experience (UX).'
+    },
+]
