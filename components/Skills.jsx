@@ -4,7 +4,7 @@ import React from "react";
 
 const Skills = () => {
   return (
-    <section
+    <section id="Skills"
       className="mx-auto max-w-[1440px] px-6 lg:px-20 3xl:px-0 gap-20 py-10 pb-32 md:gap-28
     lg:py-20 xl:flex-row"
     >
